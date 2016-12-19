@@ -1,11 +1,7 @@
 # CS 296-25 Honors Project
 
-This repository contains the code we did in class.  You can
-use it as a starting point for your own project if you want.
+This is a text adventure game. The main objective is to take hints and reach a particular destination. Hope you enjoy the game!
 
-## Installation
-
-Do a `git clone git@gitlab-beta.engr.illinois.edu:mattox/fa16-honors-project.git` if you have uploaded your secure shell public key to gitlab.  Otherwise, use `git clone https://gitlab-beta.engr.illinois.edu/mattox/fa16-honors-project.git`
 
 ## Usage
 
